@@ -32,6 +32,9 @@
             try_files $uri $uri/ /index.php?$query_string;
         }
 
+## 更新日志
+[点此此处](https://github.com/HSDComputerTeam/kldns/blob/3.0/CHANGELONG.md)
+
 ## 有问题反馈
 1、如果你需要程序支持其他域名解析平台，且该平台有api接口，可以联系我，我尽量添加！
 2、在使用中有任何问题，欢迎反馈给我，可以用以下联系方式跟我交流
